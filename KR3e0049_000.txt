@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 傷寒直格方
-#+DATE: 2019-03-29 21:06:00.530403
+#+DATE: 2019-03-29 21:06:00.601294
 #+PROPERTY: ID KR3e0049
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 0
 <pb:KR3e0049_WYG_000-1a>¶
 　　欽定四庫全書　　　　　子部五¶
